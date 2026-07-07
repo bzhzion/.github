@@ -1,1 +1,32 @@
-IyBCcmVpemh6aW9uCgoqKlRlY2gsIGN1bHR1cmUgZXQgcsOpZ2llIGF1IHNlcnZpY2UgZGUgbGEgc29saWRhcml0w6kgZXQgZGUgbGEgcsOpaW5zZXJ0aW9uLioqCgpCcmVpemh6aW9uIGVzdCB1bmUgYXNzb2NpYXRpb24gY3VsdHVyZWxsZSBldCBudW3DqXJpcXVlIGQnaW50w6lyw6l0IGfDqW7DqXJhbC4gRGVwdWlzIDIwMDUsIG5vdXMgbWV0dG9ucyBub3MgY29tcMOpdGVuY2VzIGF1IHNlcnZpY2UgZCdhdXRyZXMgYXNzb2NpYXRpb25zLCBjb2xsZWN0aWZzIGV0IHN0cnVjdHVyZXMgZCdpbnNlcnRpb24gLS0tIHBvdXIgcXUnaWxzIHB1aXNzZW50IHNlIGNvbmNlbnRyZXIgc3VyIGwnZXNzZW50aWVsIDogYWNjb21wYWduZXIgbGVzIHBlcnNvbm5lcy4KCi0tLQoKIyMgQ2UgcXUnb24gZmFpdAoKfCB8IHwKfC0tLXwtLS18CnwgPGJyPiA8c3Ryb25nPkluZm9ybWF0aXF1ZSBzb2xpZGFpcmU8L3N0cm9uZz4gfCBTaXRlcyB3ZWIsIG91dGlscyBudW3DqXJpcXVlcywgZm9ybWF0aW9ucyBldCBhY2NvbXBhZ25lbWVudCBwb3VyIGRlcyBhc3NvY2lhdGlvbnMgZXQgc3RydWN0dXJlcyBxdWkgYWdpc3NlbnQgc3VyIGxlIHRlcnJhaW4uIHwKfCA8YnI+IDxzdHJvbmc+UHJvZHVjdGlvbiAmYW1wOyBHZXN0aW9uIGRlIHByb2pldHM8L3N0cm9uZz4gfCBBaWRlciBsZXMgYXNzb2NpYXRpb25zIMOgIHN0cnVjdHVyZXIsIHByb2R1aXJlIGV0IGfDqXJlciBsZXVycyBwcm9qZXRzLiB8CnwgPGJyPiA8c3Ryb25nPsOJdsOpbmVtZW50aWVsIGVuZ2Fnw6k8L3N0cm9uZz4gfCBPcmdhbmlzYXRpb24gZXQgcsOpZ2llIGQnw6l2w6luZW1lbnRzIGF1IHByb2ZpdCBkJ2FjdGlvbnMgc29jaWFsZXMsIGN1bHR1cmVsbGVzIGV0IGRlIHLDqWluc2VydGlvbi4gfAoKLS0tCgojIyBOb3MgcHJvamV0cwoKfCBQcm9qZXQgfCBEZXNjcmlwdGlvbiB8CnwtLS0tfC0tLS18CnwgW0p1c3QgTWFrZSBRXShodHRwczovL2p1c3RtYWtlcS5jb20pIHwgTG9naWNpZWwgZGUgcsOpZ2llIG11bHRpbcOpZGlhIHwKfCBbSGFlXShodHRwczovL2hhZS5icmVpemh6aW9uLmNvbSkgfCBBcHAgZGUgZ2VzdGlvbiBkZSBwcm9qZXQgfAp8IFtNd29yYWdvXShodHRwczovL213b3JhZ28uY29tKSB8IFBsYXRlZm9ybWUgbcOpZGlhIEstcG9wICZhbXA7IEstZHJhbWEgbXVsdGlsaW5ndWUgfAp8IFtNb25NaW5pTGFiXShodHRwczovL21vbm1pbmlsYWIuZnIpIHwgRm9ybWF0aW9ucyBhdSBudW3DqXJpcXVlIHwKfCBbTm9wb3N0XShodHRwczovL25vcG9zdC5mcikgfCBUaMOobWUgV29yZFByZXNzIG1pbmltYWxpc3RlIHwKfCBbRGljdHVtXShodHRwczovL2RpY3R1bS5icmVpemh6aW9uLmNvbSkgfCBEaWN0w6llIHZvY2FsZSBsb2NhbGUgV2luZG93cyB8CgotLS0KCioqW2JyZWl6aHppb24uY29tXShodHRwczovL2JyZWl6aHppb24uY29tKSoqIMK3IFtjb250YWN0QGJyZWl6aHppb24uY29tXShtYWlsdG86Y29udGFjdEBicmVpemh6aW9uLmNvbSk=
+# Breizhzion
+
+**Tech, culture et régie au service de la solidarité et de la réinsertion.**
+
+Breizhzion est une association culturelle et numérique d'intérêt général. Depuis 2005, nous mettons nos compétences au service d'autres associations, collectifs et structures d'insertion — pour qu'ils puissent se concentrer sur l'essentiel : accompagner les personnes.
+
+---
+
+## Ce qu'on fait
+
+**Informatique solidaire** — Sites web, outils numériques, formations et accompagnement pour des associations et structures qui agissent sur le terrain.
+
+**Production & Gestion de projets** — Aider les associations à structurer, produire et gérer leurs projets.
+
+**Événementiel engagé** — Organisation et régie d'événements au profit d'actions sociales, culturelles et de réinsertion.
+
+---
+
+## Nos projets
+
+| Projet | Description |
+|--------|-------------|
+| [Just Make Q](https://justmakeq.com) | Logiciel de régie multimédia |
+| [Hae](https://hae.breizhzion.com) | App de gestion de projet |
+| [Mworago](https://mworago.com) | Plateforme média K-pop & K-drama multilingue |
+| [MonMiniLab](https://monminilab.fr) | Formations au numérique |
+| [Nopost](https://nopost.fr) | Thème WordPress minimaliste |
+| [Dictum](https://dictum.breizhzion.com) | Dictée vocale locale Windows |
+
+---
+
+**[breizhzion.com](https://breizhzion.com)** · [contact@breizhzion.com](mailto:contact@breizhzion.com)
