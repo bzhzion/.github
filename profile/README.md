@@ -8,11 +8,11 @@ Breizhzion est une association culturelle et numérique d'intérêt général. D
 
 ## Ce qu'on fait
 
-**Informatique solidaire** Sites web, outils numériques, formations et accompagnement pour des associations et structures qui agissent sur le terrain.
+**Informatique solidaire** - Sites web, outils numériques, formations et accompagnement pour des associations et structures qui agissent sur le terrain.
 
-**Production & Gestion de projets** Aider les associations à structurer, produire et gérer leurs projets.
+**Production & Gestion de projets** - Aider les associations à structurer, produire et gérer leurs projets.
 
-**Événementiel engagé** Organisation et régie d'événements au profit d'actions sociales, culturelles et de réinsertion.
+**Événementiel engagé** - Organisation et régie d'événements au profit d'actions sociales, culturelles et de réinsertion.
 
 ---
 
