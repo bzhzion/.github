@@ -2,17 +2,17 @@
 
 **Tech, culture et régie au service de la solidarité et de la réinsertion.**
 
-Breizhzion est une association culturelle et numérique d'intérêt général. Depuis 2005, nous mettons nos compétences au service d'autres associations, collectifs et structures d'insertion — pour qu'ils puissent se concentrer sur l'essentiel : accompagner les personnes.
+Breizhzion est une association culturelle et numérique d'intérêt général. Depuis 2005, nous mettons nos compétences au service d'autres associations, collectifs et structures d'insertion pour qu'ils puissent se concentrer sur l'essentiel : accompagner les personnes.
 
 ---
 
 ## Ce qu'on fait
 
-**Informatique solidaire** — Sites web, outils numériques, formations et accompagnement pour des associations et structures qui agissent sur le terrain.
+**Informatique solidaire** Sites web, outils numériques, formations et accompagnement pour des associations et structures qui agissent sur le terrain.
 
 **Production & Gestion de projets** — Aider les associations à structurer, produire et gérer leurs projets.
 
-**Événementiel engagé** — Organisation et régie d'événements au profit d'actions sociales, culturelles et de réinsertion.
+**Événementiel engagé** Organisation et régie d'événements au profit d'actions sociales, culturelles et de réinsertion.
 
 ---
 
